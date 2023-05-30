@@ -1,0 +1,16 @@
+.box1{
+    border: 1px solid white;
+    width: 200px;
+    height: 320px;
+}
+.button2{
+    border: 1px solid white;
+    width: 150px;
+    height: 40px;
+    background-color: white;
+}
+.button2:hover{
+    background-color: #BB93FE;
+    color: white;
+}
+

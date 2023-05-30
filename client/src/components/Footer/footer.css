@@ -1,0 +1,53 @@
+.footer{
+  background-color: #03091D;  
+  margin-top: 100px;
+  height: 45vh;
+}
+
+.facebook{
+    border: 1px solid black;
+    width: 35px;
+    height: 30px;
+    text-align: center;
+    color: gray;
+}
+
+.facebook:hover{
+    background-color: #CA95FF;
+    color: white;
+}
+
+.twitter{
+    border: 1px solid black;
+    width: 35px;
+    height: 30px;
+    text-align: center;
+    color: gray; 
+}
+.twitter:hover{
+    background-color: #CA95FF;
+    color: white;
+}
+
+.ball{
+    border: 1px solid black;
+    width: 35px;
+    height: 30px;
+    text-align: center;
+    color: gray; 
+}
+.ball:hover{
+    background-color: #CA95FF;
+    color: white;
+}
+.instagram{
+    border: 1px solid black;
+    width: 35px;
+    height: 30px;
+    text-align: center;
+    color: gray; 
+}
+.instagram:hover{
+    background-color: #CA95FF;
+    color: white;
+}
